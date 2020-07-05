@@ -1,1 +1,1 @@
-console.log("first using git add");
+console.log("commiting code straight through git bash");
